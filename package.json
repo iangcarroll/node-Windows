@@ -11,10 +11,6 @@
     "url": "git://github.com/Benvie/node-Windows.git"
   },
   "main": "index.js",
-  "bin": {
-    "cwddrive": "./bin/cwddrive",
-    "makerunnable": "./bin/makerunnable"
-  },
   "engines": {
     "node": "0.6"
   },
